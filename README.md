@@ -77,7 +77,7 @@ A cleaned and transformed version of the dataset is used in this project for edu
 ```text
 predictive-maintenance-analytics-dashboard/
 │
-├── 01_raw_data/
+├── 01_données_brutes/
 ├── 02_données_nettoyées/
 ├── 03_sql/
 ├── 04_python/
