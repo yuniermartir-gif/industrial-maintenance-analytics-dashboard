@@ -77,12 +77,14 @@ A cleaned and transformed version of the dataset is used in this project for edu
 ```text
 predictive-maintenance-analytics-dashboard/
 │
-├── data/
-├── powerbi/
-├── report/
-├── images/
-├── dax/
-└── documentation/
+├── 01_raw_data/
+├── 02_données_nettoyées/
+├── 03_sql/
+├── 04_python/
+├── 05_tableau de bord/
+├── 06_Rapport_Projet_Maintenance.docx/
+├── LICENCE
+└── README.md
 ```
 ## Author
 
